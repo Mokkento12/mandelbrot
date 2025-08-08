@@ -1,1 +1,3 @@
 # mandelbrot
+
+go run main.go > mandelbrot.png
